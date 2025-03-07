@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh162002&label=Profile%20views&color=0e75b6&style=flat" alt="harsh162002" /> </p>
 
-- 🌱 I’m currently learning **Verilog**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **mishraharsh1623@gmail.com**
 
