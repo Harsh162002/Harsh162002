@@ -1,7 +1,7 @@
 ![logo](https://github.com/Harsh162002/Harsh162002/blob/main/harsh%20mishra.png)
 
 <h1 align="center">Hi 👋, I'm Harsh Mishra</h1>
-<h3 align="center">Passionate electronics engineer with a knack for innovation and problem-solving in hardware design and embedded systems.</h3>
+<h3 align="center">Passionate enthusiastic about tech, programming and proficiency in software skills and their problem solving. looking for challenging opportunities that demand the best of my professional skills to help me to enhance my current skills and knowledge.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
